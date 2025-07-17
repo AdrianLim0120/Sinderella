@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS sinderella_db;
-USE sinderella_db;
+CREATE DATABASE IF NOT EXISTS sinderella_dbs;
+USE sinderella_dbs;
 
 -- -- CUSTOMER TABLE
 -- DROP TABLE IF EXISTS customers;

@@ -8,7 +8,7 @@ env_variables:
   DB_CONNECTION: "mysql"
   DB_HOST: "/cloudsql/your-cloudsql-connection-name"
   DB_PORT: "3306"
-  DB_DATABASE: "sinderella_db"
+  DB_DATABASE: "sinderella_dbs"
   DB_USERNAME: "root"
   DB_PASSWORD: ""
 
